@@ -1,4 +1,11 @@
-<?php
-$link=mysqli_connect ("localhost","root","");
-mysqli_select_db ($link,"lms");
+<?php // login.php
+
+    $hn = 'localhost'; //hostname
+
+    $db = 'abduelm1_proj'; //database
+
+    $un = 'abduelm1_proj'; //username
+
+   $pw = 'password'; //password
+
 ?>
